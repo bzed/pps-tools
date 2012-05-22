@@ -1,5 +1,6 @@
-pps-tools (5.3.6-1) unstable; urgency=low
+pps-tools (0.20120406+g0deb9c7e-1) unstable; urgency=low
 
-  * Initial release.
+  * Initial packaging by Alexander Gordeev, finished for Debian by
+    Bernd Zeimetz.
 
- -- Alexander Gordeev <lasaine@lvk.cs.msu.su>  Tue, 13 Apr 2010 15:17:09 +0400
+ -- Bernd Zeimetz <bzed@debian.org>  Tue, 22 May 2012 19:34:48 +0200

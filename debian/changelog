@@ -1,3 +1,12 @@
+pps-tools (0.20120406+g0deb9c7e-3) unstable; urgency=low
+
+  * [9f3b0cc3] Set defaults in debian/gbp.conf.
+  * [4c98c525] Remove ppsldisc from manpage.
+    This tool is not in the pps-tools distribution anymore.
+    Thanks to Douglas F. Calvert (Closes: #697399)
+
+ -- Bernd Zeimetz <bernd@bzed.de>  Fri, 04 Jan 2013 22:21:33 +0100
+
 pps-tools (0.20120406+g0deb9c7e-2) unstable; urgency=low
 
   * [29f982a0] Add missing include.

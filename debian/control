@@ -4,7 +4,7 @@ Priority: extra
 Maintainer: Bernd Zeimetz <bzed@debian.org>
 Build-Depends: debhelper (>= 8)
 Standards-Version: 3.9.3
-Homepage: http://linuxpps.org
+Homepage: https://github.com/redlab-i/pps-tools
 Vcs-Browser: https://github.com/bzed/pps-tools
 Vcs-Git: git://github.com/bzed/pps-tools.git
 

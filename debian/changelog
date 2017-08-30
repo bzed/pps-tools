@@ -1,3 +1,11 @@
+pps-tools (1.0.1-1) unstable; urgency=medium
+
+  * [4b2ceb3] Merge branch 'master' into debian
+  * [9677d4f] Merge branch 'gerasiov-debian' into debian
+    This resolves #1, thanks a lot to Alexander Gerasiov!
+
+ -- Bernd Zeimetz <bzed@debian.org>  Wed, 30 Aug 2017 22:51:12 +0200
+
 pps-tools (0.20120406+g0deb9c7e-3) unstable; urgency=low
 
   * [9f3b0cc3] Set defaults in debian/gbp.conf.

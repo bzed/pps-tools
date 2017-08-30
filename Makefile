@@ -1,10 +1,9 @@
-TARGETS = ppstest ppsctl ppswatch
+TARGETS = ppstest ppsctl ppswatch ppsldisc
 
 CFLAGS += -Wall -O2 -D_GNU_SOURCE
-CFLAGS += -I .
 CFLAGS += -ggdb
-CFLAGS += -D__N_PPS=18
 CFLAGS += -fPIC
+LDFLAGS += -lm
 
 # -- Actions section --
 

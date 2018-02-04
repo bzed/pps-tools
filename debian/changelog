@@ -1,3 +1,11 @@
+pps-tools (1.0.2-1) unstable; urgency=medium
+
+  * [efb1ff7] Merge branch 'master' into debian
+    Updating to 1.0.2 (Closes: #889185, Thanks to
+    Steve Langasek and Alexander Gerasiov).
+
+ -- Bernd Zeimetz <bzed@debian.org>  Sun, 04 Feb 2018 01:05:11 +0100
+
 pps-tools (1.0.1-1) unstable; urgency=medium
 
   * [4b2ceb3] Merge branch 'master' into debian

@@ -4,15 +4,15 @@ Source: https://github.com/redlab-i/pps-tools
 
 Files: debian/*
 Copyright:
-	2009-2011 Alexander Gordeev <alex@gordick.net>
-	2012      Bernd Zeimetz <bzed@debian.org>
-	2017      Alexander Gerasiov <gq@debian.org>
+ 2009-2011 Alexander Gordeev <alex@gordick.net>
+ 2012      Bernd Zeimetz <bzed@debian.org>
+ 2017      Alexander Gerasiov <gq@debian.org>
 License: GPL-2+
 
 Files: *
 Copyright:
-	2005-2007 Rodolfo Giometti <giometti@linux.it>
-	2009-2011 Alexander Gordeev <alex@gordick.net>
+ 2005-2007 Rodolfo Giometti <giometti@linux.it>
+ 2009-2011 Alexander Gordeev <alex@gordick.net>
 License: GPL-2+
 
 License: GPL-2+

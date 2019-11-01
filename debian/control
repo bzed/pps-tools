@@ -1,6 +1,6 @@
 Source: pps-tools
 Section: devel
-Priority: extra
+Priority: optional
 Maintainer: Bernd Zeimetz <bzed@debian.org>
 Build-Depends: debhelper-compat (= 12)
 Standards-Version: 4.1.1

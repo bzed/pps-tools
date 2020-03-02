@@ -1,16 +1,25 @@
-pps-tools (1.0.2-2) UNRELEASED; urgency=medium
+pps-tools (1.0.2-2) unstable; urgency=medium
 
-  * Trim trailing whitespace.
-  * Use secure copyright file specification URI.
-  * Update standards version to 4.1.1, no changes needed.
-  * Bump debhelper from old 10 to 12.
-  * Change priority extra to priority optional.
-  * debian/copyright: Use spaces rather than tabs in continuation lines.
-  * Set upstream metadata fields: Repository.
-  * Use secure URI in Vcs control header.
-  * Make "Files: *" paragraph the first in the copyright file.
+  [ Debian Janitor ]
+  * [dae2c37] Trim trailing whitespace.
+    Fixes lintian: file-contains-trailing-whitespace
+  * [b59e3b5] Use secure copyright file specification URI.
+    Fixes lintian: insecure-copyright-format-uri
+  * [24cb0d2] Update standards version to 4.1.1, no changes needed.
+    Fixes lintian: out-of-date-standards-version
+  * [119ab37] Bump debhelper from old 10 to 12.
+    Fixes lintian: package-uses-old-debhelper-compat-version
+  * [54da43a] Change priority extra to priority optional.
+    Fixes lintian: priority-extra-is-replaced-by-priority-optional
+  * [d3cbd02] debian/copyright: Use spaces rather than tabs in continuation lines.
+  * [43f4d21] Set upstream metadata fields: Repository.
+    Fixes lintian: upstream-metadata-file-is-missing
+  * [fc48076] Use secure URI in Vcs control header.
+    Fixes lintian: vcs-field-uses-insecure-uri
+  * [8a8a8c7] Make "Files: *" paragraph the first in the copyright file.
+    Fixes lintian: global-files-wildcard-not-first-paragraph-in-dep5-copyright
 
- -- Debian Janitor <janitor@jelmer.uk>  Fri, 01 Nov 2019 09:47:57 +0000
+ -- Bernd Zeimetz <bzed@debian.org>  Mon, 02 Mar 2020 21:38:23 +0100
 
 pps-tools (1.0.2-1) unstable; urgency=medium
 

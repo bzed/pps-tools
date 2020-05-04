@@ -11,7 +11,8 @@ pps-tools (1.0.2-2) unstable; urgency=medium
     Fixes lintian: package-uses-old-debhelper-compat-version
   * [54da43a] Change priority extra to priority optional.
     Fixes lintian: priority-extra-is-replaced-by-priority-optional
-  * [d3cbd02] debian/copyright: Use spaces rather than tabs in continuation lines.
+  * [d3cbd02] debian/copyright: Use spaces rather than tabs in continuation
+    lines.
   * [43f4d21] Set upstream metadata fields: Repository.
     Fixes lintian: upstream-metadata-file-is-missing
   * [fc48076] Use secure URI in Vcs control header.
